@@ -1,0 +1,5 @@
+name: AntiLeafDecayPlugin
+version: 1.12
+main: org.baimo.antileafdecay.AntiLeafDecayPlugin
+description: antileafdecay
+author: Baimo
